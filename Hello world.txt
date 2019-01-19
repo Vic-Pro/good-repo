@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 print(«hello world»)
 print(«hello everybody»)
 Print ("Hello my dear friend")
